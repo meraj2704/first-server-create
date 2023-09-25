@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "phoneName": "iPhone 13",
+        "brandName": "Apple",
+        "ram": "6 GB"
+    },
+    {
+        "id": 2,
+        "phoneName": "Galaxy S21",
+        "brandName": "Samsung",
+        "ram": "8 GB"
+    },
+    {
+        "id": 3,
+        "phoneName": "Pixel 6",
+        "brandName": "Google",
+        "ram": "8 GB"
+    },
+    {
+        "id": 4,
+        "phoneName": "OnePlus 9",
+        "brandName": "OnePlus",
+        "ram": "12 GB"
+    },
+    {
+        "id": 5,
+        "phoneName": "Xperia 1 III",
+        "brandName": "Sony",
+        "ram": "12 GB"
+    },
+    {
+        "id": 6,
+        "phoneName": "Mi 11",
+        "brandName": "Xiaomi",
+        "ram": "8 GB"
+    },
+    {
+        "id": 7,
+        "phoneName": "ROG Phone 5",
+        "brandName": "Asus",
+        "ram": "16 GB"
+    },
+    {
+        "id": 8,
+        "phoneName": "LG Velvet",
+        "brandName": "LG",
+        "ram": "6 GB"
+    },
+    {
+        "id": 9,
+        "phoneName": "Moto G Power",
+        "brandName": "Motorola",
+        "ram": "4 GB"
+    },
+    {
+        "id": 10,
+        "phoneName": "Redmi Note 10",
+        "brandName": "Xiaomi",
+        "ram": "4 GB"
+    },
+    {
+        "id": 11,
+        "phoneName": "Nokia 8.3",
+        "brandName": "Nokia",
+        "ram": "6 GB"
+    },
+    {
+        "id": 12,
+        "phoneName": "Huawei P40 Pro",
+        "brandName": "Huawei",
+        "ram": "8 GB"
+    },
+    {
+        "id": 13,
+        "phoneName": "Oppo Find X3 Pro",
+        "brandName": "Oppo",
+        "ram": "12 GB"
+    },
+    {
+        "id": 14,
+        "phoneName": "ZTE Axon 30 Ultra",
+        "brandName": "ZTE",
+        "ram": "16 GB"
+    },
+    {
+        "id": 15,
+        "phoneName": "Realme 8 Pro",
+        "brandName": "Realme",
+        "ram": "8 GB"
+    }
+]
